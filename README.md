@@ -1,61 +1,60 @@
-<h2 align="left">Hi 👋! I'm Dayan Battulga</h2>
+<h1 align="center">
+  Hello World, I'm Dayan Battulga 👋
+</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast">
+</p>
 
-<p align="left">I'm a Machine Learning Engineer from Ulaanbaatar, Mongolia</p>
+---
 
-###
+## ⚡ Tech Skills
+### **Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,go,ts,js,swift,kotlin,c,bash,html,css,r,sql" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayan-battulga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dayan-battulga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayan-battulga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### **Frameworks & Libraries**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,threejs,tensorflow,pytorch,fastapi" />
+</p>
 
-###
+### **Tools & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,electron" />
+</p>
 
-<div align="left">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-</div>
+### **Databases & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,redis,aws,gcp" />
+</p>
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/dayoonbattulga/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+---
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPathu&layout=compact&theme=radical&langs_count=6" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PPathu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PPathu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+
+---
+
+## 🎯 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/dayan-battulga/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:dayanbattulga8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:dayanbattulga8@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</div>
-
-###
+  <a href="https://github.com/dayan-battulga">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
