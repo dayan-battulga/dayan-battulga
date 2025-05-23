@@ -11,22 +11,22 @@
 ## ⚡ Tech Skills
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,ts,js,swift,kotlin,c,bash,html,css,r,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,swift,c,bash,html,css,sql" />
 </p>
 
 ### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,threejs,tensorflow,pytorch,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,tensorflow,pytorch,fastapi" />
 </p>
 
 ### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,electron" />
+  <img src="https://skillicons.dev/icons?i=git,docker,github" />
 </p>
 
 ### **Databases & Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,redis,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws" />
 </p>
 
 
@@ -34,13 +34,13 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPathu&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayan-battulga&layout=compact&theme=radical&langs_count=6" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PPathu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dayan-battulga&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PPathu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayan-battulga&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 
